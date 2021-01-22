@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetFramework.S9.D2.KapsullemeOdev1
+namespace NetFramework.S9.D1.KapsullemeOdev1
 {
     class Musteri
     {
@@ -74,7 +74,7 @@ namespace NetFramework.S9.D2.KapsullemeOdev1
         {
             get
             {
-                return this._soyad
+                return this._soyad;
             }
             set
             {

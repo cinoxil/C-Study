@@ -1,0 +1,7 @@
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.csprojAssemblyReference.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.csproj.CoreCompileInputs.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.exe.config
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D3.StaticBolumSonuOdevi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevi.pdb

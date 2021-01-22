@@ -1,0 +1,7 @@
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe.config
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.csprojAssemblyReference.cache

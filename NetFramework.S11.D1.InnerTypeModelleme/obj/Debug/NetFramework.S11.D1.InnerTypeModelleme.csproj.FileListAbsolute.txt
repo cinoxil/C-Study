@@ -1,0 +1,7 @@
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe.config
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\bin\Debug\NetFramework.S11.D1.InnerTypeModelleme.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.csprojAssemblyReference.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.csproj.CoreCompileInputs.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S11.D1.InnerTypeModelleme\obj\Debug\NetFramework.S11.D1.InnerTypeModelleme.pdb

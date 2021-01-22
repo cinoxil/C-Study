@@ -1,0 +1,7 @@
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe.config
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csprojAssemblyReference.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csproj.CoreCompileInputs.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.pdb

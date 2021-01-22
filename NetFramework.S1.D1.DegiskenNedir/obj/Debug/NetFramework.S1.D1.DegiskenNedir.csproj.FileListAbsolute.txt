@@ -1,0 +1,7 @@
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.exe.config
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.pdb
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.csprojAssemblyReference.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.exe
+C:\Users\uguro\Desktop\C-Study\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.pdb
